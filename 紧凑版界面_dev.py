@@ -53,7 +53,7 @@ C = {
 class CompactGUIDev:
     def __init__(self):
         self.root = ctk.CTk()
-        self.root.title("互感器评审编号生成器")
+        self.root.title("协作编号管理器")
         self.root.geometry("430x720")
         self.root.minsize(400, 600)
         self.root.configure(fg_color=C["bg"])

@@ -6,7 +6,7 @@ import customtkinter
 
 def build():
     script_name = "紧凑版界面_dev.py"
-    exe_name = "互感器评审编号生成器_Dev"
+    exe_name = "协作编号管理器_Dev"
 
     ctk_path = os.path.dirname(customtkinter.__file__)
 
