@@ -1,0 +1,9 @@
+# 编号生成器依赖包
+# 注意：tkinter是Python标准库的一部分，通常不需要单独安装
+
+# 如果需要打包成exe文件，可以使用以下工具之一：
+# pyinstaller>=5.0
+# cx_Freeze>=6.0
+# auto-py-to-exe>=2.0
+
+# 对于基本功能，只需要Python标准库即可
