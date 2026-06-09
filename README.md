@@ -23,7 +23,7 @@
 
 ### 直接使用（推荐）
 
-1. 从 `发布版本/` 文件夹获取 exe 文件
+1. 从 `dist/` 文件夹获取 exe 文件
 2. 双击运行
 3. 点击 **获取编号** 即可
 
@@ -43,7 +43,8 @@ python 紧凑版界面_dev.py
 ├── number_manager.py       # 核心逻辑：编号分配、文件锁、日志
 ├── 打包脚本.py             # PyInstaller 打包脚本
 ├── requirements.txt        # Python 依赖
-├── 发布版本/               # 打包好的 exe 和使用说明
+├── dist/                   # 打包好的 exe 文件
+├── 发布版本/               # 使用说明文档
 └── README.md
 ```
 
